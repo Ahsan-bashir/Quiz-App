@@ -1,0 +1,120 @@
+Ordinary table salt is sodium chloride. What is baking soda?
+A.Potassium chloride
+B.Potassium carbonate
+C.Potassium hydroxide
+D.Sodium bicarbonate
+d	
+Ozone hole refers to
+A.hole in ozone layer
+B.decrease in the ozone layer in troposphere
+C.decrease in thickness of ozone layer in stratosphere
+D.increase in the thickness of ozone layer in troposphere
+c	
+Pollination is best defined as
+A.transfer of pollen from anther to stigma
+B.germination of pollen grains
+C.growth of pollen tube in ovule
+D.visiting flowers by insects
+a	
+Plants receive their nutrients mainly from
+A.chlorophyll
+B.atmosphere
+C.light
+D.soil
+d	
+Movement of cell against concentration gradient is called
+A.osmosis
+B.active transport
+C.diffusion
+D.passive transport
+b	
+Photosynthesis generally takes place in which parts of the plant?
+A.Leaf and other chloroplast bearing parts
+B.stem and leaf
+C.Roots and chloroplast bearing parts
+D.Bark and leaf
+a	
+Plants synthesis protein from
+A.starch
+B.sugar
+C.amino acids
+D.fatty acids
+c	
+Which of the following languages is more suited to a structured program?
+A.PL/1
+B.FORTRAN
+C.BASIC
+D.PASCAL
+d	
+A computer assisted method for the recording and analyzing of existing or hypothetical systems is
+A.Data transmission
+B.Data flow
+C.Data capture
+D.Data processing
+b	
+The brain of any computer system is
+A.ALU
+B.Memory
+C.CPU
+D.Control unit
+c
+What difference does the 5th generation computer have from other generation computers?
+A.Technological advancement
+B.Scientific code
+C.Object Oriented Programming
+D.All of the above
+a	
+Which of the following computer language is used for artificial intelligence?
+A.FORTRAN
+B.PROLOG
+C.C
+D.COBOL
+b	
+The tracks on a disk which can be accessed without repositioning the R/W heads is
+A.Surface
+B.Cylinder
+C.Cluster
+D.All of the above
+b
+Which of the following is the 1's complement of 10?
+A.01
+B.110
+C.11
+D.10
+a	
+A section of code to which control is transferred when a processor is interrupted is known as
+A.M
+B.SVC
+C.IP
+D.MDR
+a
+A Gold Ring which is 50% pure. Its purity can be alternatively shown as __:
+A.18 Carat
+B.18 Karat
+C.12 Carat
+D.12 Karat
+d
+The term “white coal” sometimes referred to which of the following?
+A.Geothermal Electricity
+B.Wind Energy
+C.Hydroelectricity
+D.Biomass Energy
+c
+The Alkali metals are called good reducing agents. This implies that__:
+A.They easily capture electrons
+B.They are not stable at room temperature
+C.They easily lose electrons
+D.They don’t act with dilute acids
+c
+Which among following is also known as white gold?
+A.Nickel
+B.Rhodium
+C.Platinum
+D.Palladium
+c
+What is the unit of Stress?
+A.N/m
+B.Kg/m
+C.Nm
+D.It has no units
+a
